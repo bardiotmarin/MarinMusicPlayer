@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+<!--    ici j'ajoute ma couleur de background sur le player avec solid -->
+<!--    je fait un radius sur la bordure du background -->
+<!--    avec le shape je transforme la forme de mon background en rectangle-->
+    <solid android:color="#14FD246F"/>
+    <corners android:radius="20dp"/>
+</shape>
